@@ -1,3 +1,3 @@
 import * as px from "pxserver-frontend";
 
-px.ServerStarter.start();
+px.ServerStarter.start(__dirname);
