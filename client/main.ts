@@ -1,4 +1,4 @@
-import "./styles.scss";
+//import "./styles.scss";
 
 import AngularStarter from "pxserver-frontend/client/angular-starter";
 import MainModule from "./main.module";
