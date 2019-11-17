@@ -4,6 +4,6 @@ import { Component } from "@angular/core";
 	selector: "dynamic",
 	template: "<h3>DYNAMIC</h3>"
 })
-export class DynamicComponent
+export default class DynamicComponent
 {
 }
