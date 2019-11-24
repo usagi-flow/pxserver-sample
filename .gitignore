@@ -1,7 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-/dist
+/frontend/dist
+/backend/dist
 
 # Temporary files
 /tmp
@@ -27,7 +28,7 @@ node_modules
 .vscode
 
 # Miscelaneous
-/.sass-cache
+.sass-cache
 /connect.lock
 /coverage
 /libpeerconnection.log
