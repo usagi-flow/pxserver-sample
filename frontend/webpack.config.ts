@@ -1,3 +1,3 @@
-import { WebpackConfiguration } from "pxserver-frontend/webpack.config";
+import { FrontendConfiguration } from "pxserver-frontend/webpack.config";
 
-export default new WebpackConfiguration().setApplication().get();
+export default new FrontendConfiguration().setApplication().get();
