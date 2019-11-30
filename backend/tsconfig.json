@@ -1,3 +1,3 @@
 {
-	"extends": "./node_modules/pxserver-frontend/tsconfig.json"
+	"extends": "./node_modules/pxserver-backend/tsconfig.json"
 }
