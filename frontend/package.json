@@ -11,6 +11,7 @@
 		"clean": "rm -rf dist"
 	},
 	"dependencies": {
+		"pxserver-core": "link:../../pxserver-core",
 		"pxserver-frontend": "link:../../pxserver-frontend"
 	},
 	"devDependencies": {
